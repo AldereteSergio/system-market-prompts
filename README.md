@@ -1,19 +1,36 @@
 # **System Prompts and Models of AI Tools**  
 
----
-<a href="https://discord.gg/NwzrWErdMU" target="_blank">
-  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
-</a>
+## 🔬 Metodología de Análisis Sistemático
 
-> **Join the Conversation:** New system instructions are released on Discord **before** they appear in this repository. Get early access and discuss them in real time.
+Cada prompt y herramienta de IA en este repositorio es sometido a un análisis estructurado de **8 dimensiones** para comprender su arquitectura, efectividad y aplicabilidad:
 
+### 📋 Estructura de Análisis por Herramienta
 
-<a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+```
+[Modelo]/Nombre del txt hecho carpeta/
+├── 01-informacion-modelo.md          # Información del modelo y contexto
+├── 02-template-instrucciones.md      # Template y estructura de instrucciones
+├── 03-stack-tecnologico.md           # Stack tecnológico y dependencias
+├── 04-herramientas-referenciadas.md  # Tools y funciones utilizadas
+├── 05-patrones-redundancias.md       # Análisis de patrones y redundancias
+├── 06-metricas-complejidad.md        # Métricas de complejidad y estructura
+├── 07-contexto-aplicacion.md         # Contexto específico de aplicación
+├── 08-efectividad-instrucciones.md   # Evaluación de claridad y completitud
+└── README.md                         # Resumen ejecutivo del análisis
+```
 
-📜 Over **20,000+ lines** of insights into their structure and functionality.  
+### 🎯 Dimensiones de Análisis
 
-[![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+1. **Información del Modelo**: Fecha de actualización, tipo de asistente (código, chat, etc.), contexto de aplicación
+2. **Template de Instrucciones**: Estructura y formato de las instrucciones del prompt
+3. **Stack Tecnológico**: Tecnologías, frameworks y dependencias referenciadas
+4. **Herramientas Referenciadas**: Lista de tools mencionadas con descripciones breves de funcionalidad
+5. **Patrones y Redundancias**: Identificación de patrones comunes y redundancias internas
+6. **Métricas de Complejidad**: Nivel de anidación, densidad de instrucciones, dependencias
+7. **Contexto de Aplicación**: Tipo de desarrollo, tecnologías objetivo, casos de uso específicos
+8. **Efectividad de Instrucciones**: Evaluación de claridad, completitud y potencial de implementación
+
+Esta metodología permite una comprensión profunda y sistemática de cada prompt, facilitando la comparación, optimización y aplicación efectiva de estas herramientas de IA.
 
 ---
 
@@ -37,6 +54,10 @@ You can show your support via:
 
 ## 📑 Table of Contents
 
+- [**System Prompts and Models of AI Tools**](#system-prompts-and-models-of-ai-tools)
+  - [🔬 Metodología de Análisis Sistemático](#-metodología-de-análisis-sistemático)
+    - [📋 Estructura de Análisis por Herramienta](#-estructura-de-análisis-por-herramienta)
+    - [🎯 Dimensiones de Análisis](#-dimensiones-de-análisis)
   - [❤️ Support the Project](#️-support-the-project)
   - [📑 Table of Contents](#-table-of-contents)
   - [📂 Available Files](#-available-files)
